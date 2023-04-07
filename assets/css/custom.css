@@ -1,4 +1,6 @@
---couleur-primaire: white;
+:root {
+    --couleur-primaire : white;
+}
 
 a {
   color: #53606C;
