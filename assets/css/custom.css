@@ -2,9 +2,12 @@
     --couleur-primaire : white;
 }
 
+header a {
+  color: #53606C;
+}
+
 a {
   color: #53606C;
-  text-decoration-line: none;
 }
 
 footer {
