@@ -6,6 +6,11 @@ header a {
   color: rgb(83, 96, 108);
 }
 
+
+li a {
+  color: rgb(83, 96, 108);
+}
+
 footer {
   display: none;
 }
