@@ -2,12 +2,7 @@
     --couleur-primaire : white;
 }
 
-header a {
-  color: #53606C;
-}
-
-
-li a {
+a {
   color: #53606C;
 }
 
