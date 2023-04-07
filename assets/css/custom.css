@@ -1,5 +1,9 @@
 :root {
-    --couleur-primaire : rgb(83, 96, 108);
+    --couleur-primaire : white;
+}
+
+header a {
+  color: rgb(83, 96, 108);
 }
 
 footer {
